@@ -73,3 +73,6 @@ Macdown is a program (for Macs only, unfortunately) that is designed for writing
 ![macdown-preview-screenshot](imgs/macdown-ss.png)
 
 Download [here](http://macdown.uranusjr.com/).
+
+> "Yes we can"
+https://www.youtube.com/watch?v=jjXyqcx-mYY
